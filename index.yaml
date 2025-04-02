@@ -3,11 +3,11 @@ entries:
   dynamic-pvc-openshift-aws:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-04-02T15:22:40.597045-04:00"
+    created: "2025-04-02T15:35:31.881344-04:00"
     description: A sample app with dynamic PVC on OpenShift + AWS EBS
     digest: 71152d6605b62b8930f5623cc13b7de1f72408e2e4d2439cc37d93c978e3970a
     name: dynamic-pvc-openshift-aws
     urls:
     - https://tsahaca.github.io/helm-charts/dynamic-pvc-openshift-aws-0.1.0.tgz
     version: 0.1.0
-generated: "2025-04-02T15:22:40.596084-04:00"
+generated: "2025-04-02T15:35:31.880933-04:00"
